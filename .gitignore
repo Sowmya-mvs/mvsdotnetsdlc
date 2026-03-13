@@ -1,0 +1,29 @@
+## .NET Core build outputs
+bin/
+obj/
+*.user
+*.suo
+
+## SQLite database files (runtime artifacts)
+*.db
+*.db-shm
+*.db-wal
+
+## Rider, VS, VS Code
+.idea/
+.vs/
+.vscode/
+*.DotSettings.user
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+## Publish output
+publish/
+out/
+
+## Logs
+*.log
+logs/
